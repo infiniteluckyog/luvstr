@@ -1,0 +1,5 @@
+Flask
+requests
+user_agent
+colorama
+gunicorn
