@@ -1,5 +1,5 @@
-Flask
+flask
 requests
-user_agent
-colorama
+fake_useragent
+bs4
 gunicorn
